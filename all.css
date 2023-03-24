@@ -88,6 +88,9 @@ a {
 .sidebar:hover {
   width: 7%;
 }
+.sidebar:hover a,.sidebar:hover p{
+  opacity: 1;
+}
 .sidebar p:hover {
   transition-duration: 600ms;
   color: #fff;
